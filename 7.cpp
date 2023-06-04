@@ -16,12 +16,7 @@ double sroot(double a)
 {
     return sqrt(a);
 }
-/*
-int sroot(int a)
-{
-    return pow(a,o.5);   // Without sqrt() !
-}
-*/
+
 
 
 int main()
